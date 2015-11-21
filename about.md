@@ -52,7 +52,7 @@ My name is Flyink. You may find me in sites like Twitter, Facebook, Weibo.com/fl
 
 <center>
     <p><img src="../img/wechat.jpg" align="center"></p>
-></center>
+</center>
 
 
 
