@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "About"
-description: "啊，你想要了解我 "
+description: "啊，被你发现了！"
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="img/Windows_update_icon.png" align="center"></p>
+    <p><img src="../img/Windows_update_icon.png" align="center"></p>
 </center>
 
 Well, I don't know exactly how introduce myself.
@@ -51,7 +51,7 @@ My name is Flyink. You may find me in sites like Twitter, Facebook, Weibo.com/fl
 - 公众号：aeroink
 
 <center>
-    <p><img src="img/wechat.jpg" align="center"></p>
+    <p><img src="../img/wechat.jpg" align="center"></p>
 ></center>
 
 

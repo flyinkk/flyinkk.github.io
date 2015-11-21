@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="img/Windows_update_icon.png" align="center"></p>
+    <p><img src="../img/Windows_update_icon.png" align="center"></p>
 </center>
 
 
