@@ -1,9 +1,11 @@
 # Site settings
 title: 理科男的自留地
+site-title: 飞墨
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "飞墨|在纷繁杂乱的信息洪流中静心思考"  
 baseurl: ""
+
 url: "http://flyink.org"  
 
 # About/contact
@@ -19,6 +21,7 @@ favicon: img/favicon.png
 weibo_username: 飞墨
 twitter_username: flyink
 github_username: flyinkk
+zhihu_username: flyink
 
 # Build settings  
 # use Github Flavored Markdown !important  
