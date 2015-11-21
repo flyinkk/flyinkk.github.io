@@ -1,6 +1,5 @@
 # Site settings
 title: 理科男的自留地
-site-title: "飞墨"
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "飞墨|在纷繁杂乱的信息洪流中静心思考"  
@@ -15,7 +14,7 @@ owner:
   bio: "有趣的灵魂总会相遇"
 
 # Data
-gavatar: http://en.gravatar.com/userimage/6558871/982e720fb0f74d73548a78410ce1d36a.png
+gavatar: img/Windows_update_icon.png
 favicon: img/favicon.png
 
 weibo_username: 飞墨
