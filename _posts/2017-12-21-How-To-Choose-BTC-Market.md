@@ -1,14 +1,14 @@
 ﻿---
 layout: post
 title: 比特币：如何选择最适合自己的交易所
-date: 2017-12-20
+date: 2017-12-21
 categories: [blog ]
 tags: [btc, think, ]
 description: 比特币市场鱼目混杂，如何找到适合自己的交易所呢？
 ---
 
 截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到适合国人，以及适合自己的交易所呢？首先打开[Mytoken](https://www.mytoken.io)，Mytoken是一款查看虚拟货币行情、管理货币资产的app，可以通过这款app看到各交易所24小时内交易量。我们优先选择交易量较大的交易所进行交易，这样能把资金交易的风险降到最低。下面我们来一一分析：
-![MyToken](images/20171221btcmarket.png)
+![MyToken](_posts/images/20171221btcmarket.png)
 
 #1. BitMEX
 BitMEX在账户存款地址上显示：
