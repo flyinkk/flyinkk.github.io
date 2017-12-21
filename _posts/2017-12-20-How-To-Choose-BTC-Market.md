@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: 比特币：如何选择最适合自己的交易所
-date: 2017-12-21
+date: 2017-12-20
 categories: [blog ]
 tags: [btc, think, ]
 description: 比特币市场鱼目混杂，如何找到适合自己的交易所呢？
