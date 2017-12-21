@@ -26,5 +26,5 @@ description: 在纷繁复杂的世界，如何在混杂的信息中找到最关�
 最近看了一部电影，叫[Begin Again](movie.douban.com/subject/6874403/)，正好符合我当下的心境，无论之前发生过什么事情，或是痛苦，或是失败，或是迷失，会不会冥冥之中有个声音在指引你，让你看清自己，正视自己，告诉你所处的位置。无论这个顿悟的时刻是在最恰当的时间到来，亦或是稍稍晚了一些。她都会告诉你，现在就是最好的时刻，Time to begin again。
 
 以往博客可以参见
-- [飞墨 - 歪酷YCOOL.COM](http://ycool.com/user/flyink)
-- [飞墨的Tumblr](http://flyinkk.tumblr.com/)
+ - [飞墨 - 歪酷YCOOL.COM](http://ycool.com/user/flyink)
+ - [飞墨的Tumblr](http://flyinkk.tumblr.com/)
