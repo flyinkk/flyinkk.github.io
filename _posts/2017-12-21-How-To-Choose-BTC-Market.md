@@ -7,33 +7,31 @@ tags: [btc, think, ]
 description: 比特币市场鱼目混杂，如何找到适合自己的交易所呢？
 ---
 
-截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到适合国人，以及适合自己的交易所呢？首先打开[Mytoken](https://www.mytoken.io)，Mytoken是一款查看虚拟货币行情、管理货币资产的app，可以通过这款app看到各交易所24小时内交易量。我们优先选择交易量较大的交易所进行交易，这样能把资金交易的风险降到最低。下面我们来一一分析：
-![MyToken](_posts/images/20171221btcmarket.png)
+截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到最适合自己的交易所呢？我们选择交易量较大的交易所进行交易，这样能把资金交易的风险降到最低。下面我们来对交易量排在前列的交易所一一分析：
+![交易量较大的交易所](http://77g1v4.com1.z0.glb.clouddn.com/20171221btcmarket.png)
 
 #1. BitMEX
+
 BitMEX在账户存款地址上显示：
->BitMEX 只接受比特币存款。如果希望获得比特币，请到比特币交易所如 Bitstamp、Coinbase 或 OKCoin兑换。
-因为目前没有人民币方便进入的通道。
+>BitMEX 只接受比特币存款。如果希望获得比特币，请到比特币交易所如 Bitstamp、Coinbase 或 OKCoin兑换。、
+
+因此目前没有人民币方便进入的通道。
 
 [【点击进入BitMEX】](https://www.bitmex.com/register/Ijh2qZ)
 
 
 #2. CEX.com
+
 前身是币久网，跟Cex.io并非同一家公司，支持USDT入场，可通过承兑商用人民币换取USDT之后进行汇兑。推荐。
 http://t.cn/RTevP9D
 
 # 3. Bitfinex
 [Bitfinex](https://www.bitfinex.com/)交易所位于香港，有中文模式，不认证的话每天提现有限额，支持美金和欧元，但对于国人来说有些不方便。笔者在12月18日左右试图注册的时候，官网提示需要邀请码才可以注册，发文当天笔者点击注册时，看到这样一个提示：
 >Thank you for your interest in opening a Bitfinex account. However, due to extraordinary demand, new account creation has been temporarily paused.
-
 >Bitfinex focuses on serving professional traders. The reason we have decided to temporarily stop accepting new accounts is that we cannot undermine the quality of our services for our existing traders by flooding the system with new, small accounts.
-
 >Please be patient while we expand infrastructure, services, and staff to meet the exponential rise in demand for new Bitfinex accounts.
-
 >This pause for new account creation is a temporary measure. New account registration will resume by January 15th, 2018 at the latest.
-
 >Thank you for your patience and understanding,
-
 >Bitfinex Management
 
 所以由于过于火爆，Bitfinex又继续暂停了交易，所以等到2018年1月15日再去官网碰碰运气吧。
@@ -41,6 +39,7 @@ http://t.cn/RTevP9D
 [【点击进入Bitfinex】](https://www.bitfinex.com)
 
 # 4. CoinCheck
+
 位于日本，支持美元和日元交易，支持信用卡，目前免手续费，转入USD需要收取25USD，转出时需要2500日元，如果不是大额交易基本可以不用考虑。
 
 [【点击进入CoinCheck】](https://coincheck.com/?c=r2H7I4J1t5Y)
@@ -48,6 +47,7 @@ http://t.cn/RTevP9D
 #5. GDAX
 
 GDAX前身是Coinbase，位于美国，支持美金和欧元。注册成功后，在进行买入操作时显示：
+
 >Buys Not Supported
 Coinbase does not currently support buys in your country. Subscribe to our blog to be notified when we add support for your country!
 只要作罢。
@@ -84,9 +84,7 @@ Coinbase does not currently support buys in your country. Subscribe to our blog 
 
 [Bitterx](https://www.Bittrex.com)就是币圈很火的B网，美国交易所，界面是英文的。同样暂停注册了。
 >Dear new users:
-
 >We have received an enormous number of new account registrations over the past few weeks.  We are excited to have so many new users who want to join the Bittrex community.  Unfortunately, we have to make a few upgrades to our support and backend systems to handle the increased traffic and load.  As such, we have halted new user registrations for the time being.  If you already have an account on Bittrex, you will not be affected by this change.  Please continue to the log in as you normally do.
-
 >To our new users, we will keep you posted on when we open up registration.  We apologize for the inconvenience!
 
 [【点击进入Bittrex】](https://www.Bittrex.com)
@@ -94,5 +92,7 @@ Coinbase does not currently support buys in your country. Subscribe to our blog 
 综上所述，如果拥有境外便利、或者使用美金很方便，建议选择美国的交易所：CoinCheck、GDAX、Bitstamp等。对于大多数国人来说，选择OKEx或者火币Pro是非常好的选择。
 
 如果这篇文章对您有帮助，本人接受虚拟货币捐赠，谢谢!
+
 BTC捐赠地址: 1EYBb7vBH953pnCh2sk8xeK96qdg4LDXpb
+
 ETH捐赠地址：0xb8810C87EbD92dc733e579764EB86f8C06188Fd3
