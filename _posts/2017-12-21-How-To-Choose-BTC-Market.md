@@ -7,10 +7,11 @@ tags: [btc, think, ]
 description: 比特币市场鱼目混杂，如何找到适合自己的交易所呢？
 ---
 
-截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到最适合自己的交易所呢？我们选择交易量较大的交易所进行交易，这样能把资金交易的风险降到最低。下面我们来对交易量排在前列的交易所一一分析：
 ![交易量较大的交易所](http://77g1v4.com1.z0.glb.clouddn.com/20171221btcmarket.png)
 
-#1 . BitMEX
+截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到最适合自己的交易所呢？我们选择交易量较大的交易所进行交易，这样能把资金交易的风险降到最低。下面我们来对交易量排在前列的交易所一一分析：
+
+# 1. BitMEX
 
 BitMEX在账户存款地址上显示：
 >BitMEX 只接受比特币存款。如果希望获得比特币，请到比特币交易所如 Bitstamp、Coinbase 或 OKCoin兑换。
@@ -23,7 +24,8 @@ BitMEX在账户存款地址上显示：
 # 2. CEX.com
 
 前身是币久网，跟Cex.io并非同一家公司，支持USDT入场，可通过承兑商用人民币换取USDT之后进行汇兑。推荐。
-[【点击进入CEX.COM】(http://t.cn/RTevP9D)
+
+[【点击进入CEX.COM】](http://t.cn/RTevP9D)
 
 # 3. Bitfinex
 [Bitfinex](https://www.bitfinex.com/)交易所位于香港，有中文模式，不认证的话每天提现有限额，支持美金和欧元，但对于国人来说有些不方便。笔者在12月18日左右试图注册的时候，官网提示需要邀请码才可以注册，发文当天笔者点击注册时，看到这样一个提示：
@@ -90,7 +92,7 @@ Coinbase does not currently support buys in your country. Subscribe to our blog 
 
 [【点击进入Bittrex】](https://www.Bittrex.com)
 
-综上所述，如果拥有境外便利、或者使用美金很方便，建议选择美国的交易所：CoinCheck、GDAX、Bitstamp等。对于大多数国人来说，选择OKEx或者火币Pro是非常好的选择。
+综上所述，如果拥有境外便利、或者使用美金很方便，建议选择美国的交易所：CoinCheck、GDAX、Bitstamp等。对于大多数国人来说，选择[OKEx]((https://www.okex.com/share/invite/flyiVZ.do))或者[火币Pro](https://www.huobi.pro/zh-cn/)是非常好的选择。
 
 如果这篇文章对您有帮助，本人接受虚拟货币捐赠，谢谢!
 
