@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About"
+title: "Nav"
 description: "啊，被你发现了！"
 header-img: "img/green.jpg"
 ---
