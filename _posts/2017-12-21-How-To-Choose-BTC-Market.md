@@ -9,7 +9,7 @@ description: 比特币市场鱼目混杂，如何找到适合自己的交易所�
 
 ![交易量较大的交易所](http://77g1v4.com1.z0.glb.clouddn.com/20171221btcmarket.png)
 
-截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到最适合自己的交易所呢？我们选择交易量较大的交易所进行交易，这样能把资金交易的风险降到最低。下面我们来对交易量排在前列的交易所一一分析：
+截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到最适合自己的交易所呢？我们选择[交易量较大的交易所](https://coinmarketcap.com/zh/currencies/volume/24-hour/)进行交易，这样能把资金交易的风险降到最低。下面我们来对交易量排在前列的交易所一一分析：
 
 # 1. BitMEX
 
@@ -76,7 +76,7 @@ Coinbase does not currently support buys in your country. Subscribe to our blog 
 [【点击进入Binance】](https://www.binance.com/?ref=12303691)
 
 # 10.OkEx
-对国内支持很友好，转账速度也很快。访问速度也非常快。推荐。交易手续费-0.1%、0.2%。
+对国内支持很友好，转账速度也很快。访问速度也非常快。推荐。交易手续费-0.1%、0.1%，是现在最便宜的。
 [【点击进入OkEx】](https://www.okex.com/share/invite/flyiVZ.do)
 
 # 11. 火币Pro
