@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 回归本心，认真码字
-date: 2015-11-21
+title: 10分钟搞定科学上网：BandwagonHost+VPS+SS梯子搭建详细图文攻略
+date: 2018-03-11
 categories: [blog ]
-tags: [think, simple, ]
+tags: [internet, vps, bandwagonhost, ]
 description: 科学上网
 ---
 
