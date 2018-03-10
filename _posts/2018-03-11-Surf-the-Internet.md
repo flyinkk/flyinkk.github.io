@@ -12,12 +12,15 @@ description: 科学上网
 # 1. 购买VPS
 
 ## 1.1 进入官网
+
 我购买的是搬瓦工的VPS，这个VPS可以直接在后台一键安装，可以比较方便的实现科学上网。
 
-[搬瓦工官方网站](https://bandwagonhost.com/aff.php?aff=29086)注意，这个网站有分成机制，可以通过我的这个链接进入官网：
-[http://www.bwh1.net/aff.php?aff=22660](http://www.bwh1.net/aff.php?aff=22660) <font color=red>**（建议通过我提供的链接进入网站购买，价格产品都一样，走这个链接我会得到奖励，有问题也可以问我）** </font>
+[搬瓦工官方网站](https://bandwagonhost.com/aff.php?aff=29086)
+注意，这个网站有分成机制，可以通过我的这个链接进入官网：
+[http://www.bwh1.net/aff.php?aff=22660](http://www.bwh1.net/aff.php?aff=22660) **（建议通过我提供的链接进入网站购买，价格产品都一样，走这个链接我会得到奖励，有问题也可以问我）**
 
 ## 1.2 购买vps
+
 进入主页网站主页后点击如下图所示的位置，进入选购页面
 ![搬瓦工选购页面](http://flyink.qiniudn.com/image/20180311/20180311-2.jpg)
 一般选购如下图所示最便宜的就行。现在10g vps好像没货。那就选20g的。
@@ -36,7 +39,9 @@ description: 科学上网
 填写如下信息，下面的信息中最关键的是登录邮箱 和密码。不要输了忘记了
 ![搬瓦工选购页面](http://flyink.qiniudn.com/image/20180311/20180311-7.jpg)
 接下来支付啥的就买好了。
-## 2.2 安装SS服务
+
+# 2. 安装SS服务
+
 买好以后，刚买好，估计装机需要几分钟时间。
 你登录你的账号，点击在下图所示的地方，进入你的vps列表
 ![搬瓦工选购页面](http://flyink.qiniudn.com/image/20180311/20180311-7.jpg)
@@ -48,13 +53,20 @@ description: 科学上网
 安装好以后，你会得到如下图所示的信息：
 你把这些信息复制下来：
 ![搬瓦工选购页面](http://flyink.qiniudn.com/image/20180311/20180311-11.jpeg)
+
 主要是端口号。还有密码。
+
 Shadowsocks server port是端口号
+
 Shadowsocks server password是密码
+
 还有你这台vps的ip地址，你也得获得
+
 获得方式，你在后台打开下图的标签可查询到你的ip地址：
 ![搬瓦工选购页面](http://flyink.qiniudn.com/image/20180311/20180311-12.jpeg)
-## 2.3 安装相应软件实现科学上网
+
+# 3.  安装相应软件实现科学上网
+
 Shadowsocks可以利用你刚刚建立好的VPS服务器进行科学上网操作，支持IOS、Android、Windows、Mac等多个平台，请根据自己的平台需要下载。
 
 Shadowsocks for Windows：https://github.com/shadowsocks/shadowsocks-windows
@@ -67,14 +79,24 @@ Shadowsocks for Mac：https://github.com/shadowsocks/ShadowsocksX-NG/releases
 iOS：Appstore 搜索[Wingy](https://itunes.apple.com/us/app/wingy-shadow-vpn-for-http-socks5-ss/id1148026741?mt=8)下载（ShadowRocket也可以）。
 
 软件下载下来以后在软件里，一般选择：手动添加线路
+
 服务器选项后面填写你vps的ip地址
+
 端口填写后台给你的端口号
+
+
 加密形式也按照后台给你的Shadowsocks server encryption选项填写
+
 密码也是，注意大小写。
+
 输入好以后，点击连接。基本就ok了
+
 如果连不了，说明信息输错了。或者wingy软件，你没点连接。
 
 ————————
+
 如果这篇文章对您有帮助，本人接受虚拟货币捐赠，谢谢!
+
 BTC捐赠地址: **1EYBb7vBH953pnCh2sk8xeK96qdg4LDXpb**
+
 ETH捐赠地址：**0xb8810C87EbD92dc733e579764EB86f8C06188Fd3**
