@@ -69,14 +69,14 @@ Shadowsocks server password是密码
 
 Shadowsocks可以利用你刚刚建立好的VPS服务器进行科学上网操作，支持IOS、Android、Windows、Mac等多个平台，请根据自己的平台需要下载。
 
-Shadowsocks for Windows：https://github.com/shadowsocks/shadowsocks-windows
+Shadowsocks for Windows：[https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 
-Shadowsocks for 安卓：https://github.com/shadowsocks/shadowsocks-android/releases
+Shadowsocks for 安卓：[https://github.com/shadowsocks/shadowsocks-android/releases](https://github.com/shadowsocks/shadowsocks-android/releases)
 （下载有问题的可以访问百度网盘的分流地址:[https://pan.baidu.com/s/1YpUHASs2G6SfoC7a41zg6Q](https://pan.baidu.com/s/1YpUHASs2G6SfoC7a41zg6Q)，提取密码：cjfz）
 
-Shadowsocks for Mac：https://github.com/shadowsocks/ShadowsocksX-NG/releases
+Shadowsocks for Mac：[https://github.com/shadowsocks/ShadowsocksX-NG/releases](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
-iOS：Appstore 搜索[Wingy](https://itunes.apple.com/us/app/wingy-shadow-vpn-for-http-socks5-ss/id1148026741?mt=8)下载（ShadowRocket也可以）。
+iOS：Appstore 搜索[Wingy](https://itunes.apple.com/us/app/wingy-shadow-vpn-for-http-socks5-ss/id1148026741?mt=8)下载（[ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8)也可以）。
 
 软件下载下来以后在软件里，一般选择：手动添加线路
 
