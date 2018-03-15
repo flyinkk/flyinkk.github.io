@@ -7,12 +7,14 @@ title: "Nav"
 	<meta charset="utf-8">
 	<title>佛系区块链导航 - 一键直达</title>
 	<meta name="author" content="w3cub">
-	
+	<meta http-equiv="refresh" content="5;url=http://foxi.one">
+
 	<meta name="description" content=" 佛系区块链导航 - 不定期更新网址">
 	<meta name="keywords" content="比特币, 区块链, 加密货币, 佛系, 网址导航,btc, blockchain, cryptocurreny, foxi">
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 
 	<link href="/atom.xml" rel="alternate" title="佛系区块链导航 - 一键直达" type="application/atom+xml">
 	
