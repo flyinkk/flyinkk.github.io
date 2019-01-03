@@ -39,6 +39,7 @@ description: 使用Shadowsocks服务解决科学上网问题
 # 3. 配置Shadowsocks服务
 
 购买完成后，下载Shadowsocks软件：[https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+
 点击页面的Shadowsocks-4.1.3.1.zip，下载后解压备用。
 
 回到Shadowsocks网站，选择产品服务->我的服务，点击你购买的服务。
