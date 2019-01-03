@@ -7,7 +7,7 @@ tags: [btc, think, ]
 description: 比特币市场鱼目混杂，如何找到适合自己的交易所呢？
 ---
 
-![交易量较大的交易所](http://77g1v4.com1.z0.glb.clouddn.com/20171221btcmarket.png)
+![交易量较大的交易所](../images/20171221btcmarket.png)
 
 截止到发文为止，BTC价格已经突破12万，而虚拟货币的交易市场已经达到了7710个，虚拟货币交易市场鱼目混杂，如何才能找到最适合自己的交易所呢？我们选择[交易量较大的交易所](https://coinmarketcap.com/zh/currencies/volume/24-hour/)进行交易，这样能把资金交易的风险降到最低。下面我们来对交易量排在前列的交易所一一分析：
 
