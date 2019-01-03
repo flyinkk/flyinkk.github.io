@@ -36,7 +36,7 @@ description: 教你用OTCBTC购买比特币
 
 [【点击进入OTCBTC】](https://otcbtc.com/referrals/FLYINKHOST)
 
-![otcbtc](images/otcbtc1.jpg)
+![otcbtc](img/otcbtc1.jpg)
 
     2. 身份验证
     >身份验证有3级别，验证级别越高，可以交易的金额越大。
