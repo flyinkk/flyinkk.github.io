@@ -36,7 +36,7 @@ description: 教你用OTCBTC购买比特币
 
 [【点击进入OTCBTC】](https://otcbtc.com/referrals/FLYINKHOST)
 
-![otcbtc](img/otcbtc1.jpg)
+![otcbtc](/images/otcbtc1.jpg)
 
     2. 身份验证
     >身份验证有3级别，验证级别越高，可以交易的金额越大。
@@ -50,7 +50,7 @@ description: 教你用OTCBTC购买比特币
     3. 选择卖家
     以购买EOS为例，点击网站左上角的【购买比特币】，然后选择【EOS】。
 
-![otcbtc](images/otcbtc2.jpg)
+![otcbtc](/images/otcbtc2.jpg)
 
 进入EOS购买界面后，推荐查看【价格最低】的卖家，但是买之前先查看一下卖家的信息。
 
@@ -58,15 +58,15 @@ description: 教你用OTCBTC购买比特币
 >好评度只选100%的
 >卖家一定要在线，不在线的不买（因为发货慢）
 
-![otcbtc](images/otbtc3.jpg)
+![otcbtc](/images/otbtc3.jpg)
 
     选择要购买的数量，点击【立即购买】。
 
-![otcbtc](images/otcbtc5.jpg)
+![otcbtc](/images/otcbtc5.jpg)
 
     这里要注意，一定要先【锁定订单】然后再转账，这是因为锁定订单后系统会先把卖家的币冻结防止不给币的情况。
 
-![otcbtc](images/otcbtc6.jpg)
+![otcbtc](/images/otcbtc6.jpg)
 
     支付宝转账到指定的账户以后，点击【已付款】，就可以等币入账啦。
 
