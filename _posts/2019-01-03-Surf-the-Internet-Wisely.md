@@ -21,13 +21,19 @@ description: 使用Shadowsocks服务解决科学上网问题
 
 注意，这个网站有推广奖励机制，可以通过我的这个链接进入官网：
 [https://portal.shadowsocks.nu/aff.php?aff=1309](https://portal.shadowsocks.nu/aff.php?aff=1309) **（建议通过我提供的链接进入网站购买，价格产品都一样，走这个链接我会得到奖励，有问题也可以问我）**
+
 （如果这个链接打不开的话，可以找能打开的朋友帮忙注册一下，由于众所周知的原因，这个网站会不定期的进行业务调整，最新的访问地址可以到本文来查询。）
 
 点击购买服务，这里选择入门版即可，约合人民币100元，非常经济的选择了。
+
 ![Shadowsocks购买教程1](/images/shadowsocks1.gif)
+
 填写相关信息，创建账户，结账即可，这里邮箱就是你的登录名。
+
 ![Shadowsocks购买教程2](/images/shadowsocks2.gif)
+
 这里可以选择支付宝或者微信的扫码支付。
+
 ![Shadowsocks购买教程3](/images/shadowsocks3.gif)
 
 # 3. 配置Shadowsocks服务
@@ -35,16 +41,22 @@ description: 使用Shadowsocks服务解决科学上网问题
 购买完成后，下载Shadowsocks软件：[https://github.com/shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 点击页面的Shadowsocks-4.1.3.1.zip，下载后解压备用。
 
-回到Shadowsocks网站，选择产品服务->我的服务，点击你购买的服务，找到配置文件，点击【下載 Shadowsocks Windows 版本配置文件】。
+回到Shadowsocks网站，选择产品服务->我的服务，点击你购买的服务。
+
 ![Shadowsocks购买教程4](/images/shadowsocks4.gif)
+
+找到配置文件，点击【下載 Shadowsocks Windows 版本配置文件】。
+
 ![Shadowsocks购买教程5](/images/shadowsocks5.gif)
-下载完成以后会得到一个gui-config.json文件，覆盖Shadowsocks目录下同名文件。
+
+下载完成以后会得到一个gui-config.json文件，覆盖刚刚解压缩的Shadowsocks目录下同名文件。
+
 ![Shadowsocks购买教程5](/images/shadowsocks6.gif)
-覆盖后，打开Shadowsocks.exe，可以看到，Shadowsocks为我们提供了多个地区的服务器，选择负载均衡，Shadowsocks将为我们自动切换负载最轻的服务器。
-打开IE，进入Internet选项，设置代理为127.0.0.1，端口1080，接着就可以开始高速的上网之旅啦！
+
+覆盖后，打开Shadowsocks.exe，可以看到，Shadowsocks为我们提供了多个地区的服务器，选择负载均衡，Shadowsocks将为我们自动切换负载最轻的服务器。打开IE，进入Internet选项，设置代理为127.0.0.1，端口1080，接着就可以开始高速的上网之旅啦！
 ![Shadowsocks购买教程5](/images/shadowsocks7.gif)
 
-其他平台如[Android](https://portal.shadowsocks.nu/knowledgebase/44/Shadowsocks----Android.html)、[Linux](https://portal.shadowsocks.nu/knowledgebase/40/Shadowsocks----Linux.html)、[iOS](https://portal.shadowsocks.nu/knowledgebase/49/Shadowsocks----iOS.html)、[Chrome](https://portal.shadowsocks.nu/knowledgebase/50/---Chrome.html)下的设置可参考Shadowsocks的官方教程。
+其他平台如[Android](https://portal.shadowsocks.nu/knowledgebase/44/Shadowsocks----Android.html)、[Linux](https://portal.shadowsocks.nu/knowledgebase/40/Shadowsocks----Linux.html)、[iOS](https://portal.shadowsocks.nu/knowledgebase/49/Shadowsocks----iOS.html)、[Chrome](https://portal.shadowsocks.nu/knowledgebase/50/---Chrome.html)下的设置可参考[Shadowsocks的官方教程](https://portal.shadowsocks.nu/knowledgebase/2/Shadowsocks-)。
 
 ————————
 
