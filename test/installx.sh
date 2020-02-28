@@ -25,10 +25,10 @@ echo ''
 
 if [ "$1"x = "12515805sx" ]; then
     echo ">1.2.5.15805s"
-    curl -k https://download01.fangcloud.com/download/476374daa0104e5d843feb16e0ea19b3/9338d7b6ce2a5f2a5869a14620b6afbdcce938bb58cd52d8d742deaae412cccd/ssrx.tar.gz -o ss.tar.gz
+    curl -k http://flyinkk.github.io/test/ssrx.tar.gz -o ss.tar.gz
 else
     echo "<1.2.5.15805s"
-    curl -k https://download01.fangcloud.com/download/476374daa0104e5d843feb16e0ea19b3/9338d7b6ce2a5f2a5869a14620b6afbdcce938bb58cd52d8d742deaae412cccd/ssrx.tar.gz -o ss.tar.gz
+    curl -k http://flyinkk.github.io/test/ssrx.tar.gz -o ss.tar.gz
 fi
 
 echo 'Done! 下载完成'
@@ -100,10 +100,10 @@ echo ''
 
 if [ "$1"x = "12515805sx" ]; then
     echo ">1.2.5.15805s"
-    curl -k https://download01.fangcloud.com/download/476374daa0104e5d843feb16e0ea19b3/9338d7b6ce2a5f2a5869a14620b6afbdcce938bb58cd52d8d742deaae412cccd/ssrx.tar.gz -o ss.tar.gz
+    curl -k http://flyinkk.github.io/test/ssrx.tar.gz -o ss.tar.gz
 else
     echo "<1.2.5.15805s"
-    curl -k https://download01.fangcloud.com/download/476374daa0104e5d843feb16e0ea19b3/9338d7b6ce2a5f2a5869a14620b6afbdcce938bb58cd52d8d742deaae412cccd/ssrx.tar.gz -o ss.tar.gz
+    curl -k http://flyinkk.github.io/test/ssrx.tar.gz -o ss.tar.gz
 fi
 
 echo 'Done! 下载完成'
