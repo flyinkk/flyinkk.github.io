@@ -1,15 +1,15 @@
 ﻿# Site settings
-title: 理科男的自留地
+title: 土土说
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "飞墨|在纷繁杂乱的信息洪流中静心思考"  
+description: "土土|在纷繁杂乱的信息洪流中静心思考"  
 baseurl: ""
 
 url: "http://flyink.org"  
 
 # About/contact
 owner: 
-  name: " Fyink"
+  name: " Raintoo"
   email: flyink@flyink.org
   bio: "有趣的灵魂总会相遇"
 
